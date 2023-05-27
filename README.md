@@ -2,7 +2,7 @@
 # Composer package
 https://packagist.org/packages/ashallendesign/short-url
 
-#Reference Git
+# Reference Github repo
 https://github.com/ash-jc-allen/short-url
 
 # Reference
